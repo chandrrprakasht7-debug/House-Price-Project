@@ -1,18 +1,18 @@
-# 🏠 House Price Prediction
+# House Price Prediction
 
 This project predicts house prices using Linear Regression.
 
-## 📌 Features
+## Features
 
 * Area
 * Bedrooms
 
-## ⚙️ Tool
+## Tool
 
 * Python
 * Scikit-learn
 
-## 📊 Output
+## Output
 
 Predicted house price based on input
 
